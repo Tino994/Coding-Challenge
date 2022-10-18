@@ -1,0 +1,71 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+#background{
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 60%;
+  height: 100%;
+  margin: auto;
+  border-radius: 20px;
+  padding: 100px 0px 100px 0px;
+}
+
+header{
+  text-align: center;
+}
+
+.logo{
+  width: 200px;
+}
+
+h1{
+  color: lime;
+}
+
+input[type='checkbox'] {
+  margin-bottom: -50px;
+}
+
+.tasti{
+  background: lime;
+  width: 800px;
+  margin: auto;
+  padding: 10px;
+}
+
+.container{
+width: 800px;
+margin: auto;
+}
+
+span{
+  color: white;
+}
+
+.title{
+  font-size: 24px;
+  font-weight: bolder;
+}
+
+.progress-bar{
+height: 25px;
+background-color: black;
+border-radius: 5px;
+}
+
+#bar1{
+  width: 35%;
+  background-color: #f4a460;
+}
+
+#bar2{
+  width: 55%;
+  background-color: #00cd00;
+}
+
+#bar3{
+  width: 15%;
+  background-color: #cc0000;
+}
